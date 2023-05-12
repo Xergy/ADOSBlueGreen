@@ -21,16 +21,16 @@
   - Azure DevOps
     - Blue
       - Front Ends "FEs"
-        - Adofeblu101
-        - Adofeblu102
+        - Adosfeblu101
+        - Adosfeblu102
       - Search
-        - AdoSrhblu101
+        - AdosSrhblu101
     - Green
       - Front Ends "FEs"
-        - Adofegrn101
-        - Adofegrn102
+        - Adosfegrn101
+        - Adosfegrn102
       - Search
-        - AdoSrhGrn101
+        - AdosSrhGrn101
   - General Server
     - Blue
       - SrvBlu101

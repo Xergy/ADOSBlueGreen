@@ -7,7 +7,7 @@ var virtualNetworkName = 'Vnet101'
 var addressPrefix = '10.0.0.0/8'
 var subnetName = 'Subnet101'
 var subnetPrefix = '10.10.10.0/24'
-var networkSecurityGroupName = 'default-NSG'
+var networkSecurityGroupName = '${virtualNetworkName}-RDP-nsg'
 
 
 resource networkSecurityGroup 'Microsoft.Network/networkSecurityGroups@2022-05-01' = {
