@@ -1,8 +1,5 @@
 # Env Planning
 
-
-
-
 - Blue Green Envs
   - Shared Infra
     - Network
